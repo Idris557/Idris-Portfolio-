@@ -61,6 +61,7 @@ section button {
 }
 section button:hover {
   background-color: skyblue;
+  color: #fff;
 }
 footer {
   background-color: skyblue;
